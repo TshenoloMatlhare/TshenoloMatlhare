@@ -1,11 +1,13 @@
-# Tshenolo-Matlhare
-I am a studenta at the University of the Free State, currently pursuing an Honours degree in Business and Financial Analytics.
-I am very keen and always so exicited to use work with data and draw meaningful insights from it that can provide solutions and make contributions to economics and finacial issues.
-### 🔬 Research Interests
-- Digital behaviour indicators (Google Trends, social media signals)
-- Labour market analytics and unemployment modelling  
-- Bayesian networks & probabilistic reasoning  
-- Time-series forecasting and anomaly detection  
-- Macro- and micro-economic measurement challenges
+#**About me**
+I am a B.Com in Economics Sciences with Economterics graduate from the North West University and currently persuing an Honours in Business and Financial Analytics at the University of the Free State (UFS).
 
-  I’m continuously learning, experimenting, and refining my analytical toolkit — with a focus on clear, meaningful insights grounded in data.
+I am interested in data to provide insights into economic and financial solutions that have an impact. I have academic and project experience in machine learning, anomaly detection, Bayesian networks, sentiment analysis, topic modelling, and econometric analysis — all in applied contexts for decision making.
+
+My areas of research interest are:
+• Labour markets and modelling unemployment
+• Economic forecasts using alternative data sources (e.g. Google Trends)
+• Behavioural insights in retail behaviours and decision-making
+• Machine learning methods to financial and economic analytics
+• Data-driven public policy and development economics
+
+I try to build solutions that merge data science to economics, helping organisations and policy makers to better understand behaviour, markets and risk.
