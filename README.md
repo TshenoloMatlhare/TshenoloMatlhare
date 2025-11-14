@@ -1,15 +1,52 @@
-**About me**
+### 👋 Hi, I'm Tshenolo Matlhare
+
+🎓 **Economics graduate** from North-West University  
+📊 **Business & Financial Analytics Honours** student at the University of the Free State  
+📈 Passionate about using **data, analytics and economics** to create meaningful insights and solutions that drive financial and economic impact.
+
+---
+
+##  About Me
 
 
-I am a B.Com in Economics Sciences with Economterics graduate from the North West University and currently persuing an Honours in Business and Financial Analytics at the University of the Free State (UFS).
+- I integrate economic theory and analytics to address practical concerns.
+- I have a strong enthusiasm for making decisions based on data and putting it to use for measurable outcomes.
+- I'm focused on macroeconomics, labour markets, finance and data science. 
+- I enjoy working with Python, machine learning, forecasting, time series and econometrics. 
 
-I am interested in data to provide insights into economic and financial solutions that have an impact. I have academic and project experience in machine learning, anomaly detection, Bayesian networks, sentiment analysis, topic modelling, and econometric analysis — all in applied contexts for decision making.
 
-My areas of research interest are:
-• Labour markets and modelling unemployment
-• Economic forecasts using alternative data sources (e.g. Google Trends)
-• Behavioural insights in retail behaviours and decision-making
-• Machine learning methods to financial and economic analytics
-• Data-driven public policy and development economics
+---
 
-I try to build solutions that merge data science to economics, helping organisations and policy makers to better understand behaviour, markets and risk.
+##  Research Interests
+- Labour economics and unemployment dynamics 
+- Digital behaviours as economic signals (for example, Google Trends as indicators) 
+- Macro-financial relationships (GDP, inflation, unemployment, interest rates) 
+- Machine learning to forecast economics 
+- Data-informed policymaking and financial modeling 
+
+---
+
+## 📚 Current Work
+- Honours research on Google Trends job-search intensity and its predictive power for unemployment rates in South Africa.  
+- Exploring causality, stationarity, Granger tests, and time-series modelling.  
+- Building forecasting models using machine learning and econometric techniques.
+
+---
+
+## 🛠️ Skills
+**Languages:** Python, LaTeX  
+**Tools:**  Google Colab, GitHub, Excel (advanced)  
+**Methods:** Econometrics, forecasting, causal inference, machine learning, feature engineering  
+**Libraries:** pandas, statsmodels, scikit-learn, matplotlib, seaborn, pgmpy  
+
+---
+
+## 🌍 Outside of Work
+Outside of work i enjoy doing personal and private community service, specifically cleaning houses of the elderly who do not get that type of assistance from anyone or in most cases just rarely get the assistance.
+
+---
+
+## 📫 Connect With Me
+📧 Email: 2020850125@ufs4life.ac.za  
+💼 LinkedIn: https://www.linkedin.com/in/tshenolo-matlhare-2069322b0/  
+
